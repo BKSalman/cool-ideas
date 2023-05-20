@@ -8,3 +8,4 @@ This repo is to gather cool ideas I wanna do\did :)
 - [ ] Make a clone of [this software](https://github.com/SebLague/Digital-Logic-Sim)
 - [ ] A clone of [PureRef](https://www.pureref.com/)
 - [ ] A alternative for Discord that has proper screen sharing (with audio) support for linux (when I become a 1000x dev)
+- [ ] Make bindings to [playerctl](https://github.com/altdesktop/playerctl) library in rust
