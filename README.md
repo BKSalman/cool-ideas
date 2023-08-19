@@ -11,3 +11,4 @@ This repo is to gather cool ideas I wanna do\did :)
 - [ ] Make bindings to [playerctl](https://github.com/altdesktop/playerctl) library in rust
 - [ ] An AI model that can explain الإعراب of a word in Arabic
 - [ ] A simple app that measures the time it takes to press every key, to see the hardest to reach and can help optimize keymaps
+- [x] Attempt [a file transfer CLI](https://github.com/BKSalman/send_files) (could be turned into a super simple GUI later) (got inspired by [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole))
