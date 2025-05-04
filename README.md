@@ -1,5 +1,5 @@
 # Cool ideas
-This repo is to gather cool ideas I wanna do\did :)
+This repo is to gather cool ideas I wanna do/did :)
 
 - [ ] Make ``Musawarah``
 - [x] [A featureful personal Twitch chat bot](https://github.com/BKSalman/sadmadbotlad)
@@ -13,3 +13,4 @@ This repo is to gather cool ideas I wanna do\did :)
 - [ ] A simple app that measures the time it takes to press every key, to see the hardest to reach and can help optimize keymaps
 - [x] Attempt [a file transfer CLI](https://github.com/BKSalman/send_files) (could be turned into a super simple GUI later) (got inspired by [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole))
 - [ ] Make a [window manager](https://github.com/BKSalman/bunnuafeth)
+- [ ] [basic game engine](https://github.com/bksalman/dahhan)
